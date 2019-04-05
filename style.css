@@ -2,11 +2,13 @@
     float: right;
     height: 20%;
     width: 20%;
-    position : right;
+    /*position : right;*/
 }
 
 .liste{
     list-style: none;
+    padding: 2%;
+    margin: 0%;
 }
 
 .page{
@@ -17,21 +19,19 @@
 }
 
 .infophoto{
-    height: 250px;
-}
+    height: 125px;
 
-.info{
-    float: left;
 }
 
 .section{
     margin-bottom: 70px;
 }
 
-.sec-gauche{
-    float: left;
+h1{
+    color: red;
+    float: inherit;
 }
 
-.sec-droite{
-    margin-left : 200px;
+h2{
+    color: blue;
 }
