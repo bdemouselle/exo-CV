@@ -7,8 +7,7 @@
 
 .liste{
     list-style: none;
-    padding: 2%;
-    margin: 0%;
+    padding: 2px;
 }
 
 .page{
@@ -20,18 +19,15 @@
 
 .infophoto{
     height: 125px;
-
-}
-
-.section{
-    margin-bottom: 70px;
 }
 
 h1{
     color: red;
-    float: inherit;
+    text-align: center;
+    font-weight: 700;
 }
 
 h2{
     color: blue;
+    text-align: center;
 }
